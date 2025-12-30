@@ -27,6 +27,18 @@ It is designed to work with a webcam and provides high accuracy for masked and u
 
 ## 🗃 Dataset
 Source: Kaggle
+## 📂 Dataset
+Dataset is too large for GitHub.  
+Download from Google Drive: 
+https://drive.google.com/file/d/1DOxY1hFvdFre9VLM6BULC9LoCY-kayXP/view?usp=sharing
+
+
+
+## 🧠 Trained Model
+Pre-trained CNN model (.h5): 
+https://drive.google.com/file/d/1SnaOWX3VdDXIh5mNIfGa5lQ6dcT4kwQ5/view?usp=sharing
+
+
 
 ---
 
@@ -98,5 +110,6 @@ Internship Project: Naviotech Solution
 Open-source contributions for TensorFlow, Keras, and OpenCV libraries
 
 Dataset contributors for mask and no-mask images
+
 
 
