@@ -57,11 +57,12 @@ Source: Kaggle
 
 ## ▶ How to Run
 
-### 1️⃣ Install Dependencies
+# 1️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
+
 
 2️⃣ Train the Model (Optional)
 
@@ -69,15 +70,15 @@ If you want to train the CNN model yourself:
 
 ```bash
 python train_model.py
-```bash
+```
 
 3️⃣ Run Real-Time Mask Detection
 
 ```bash
 python real_time_mask_detection.py
-```bash
+```
 
-🚀 Future Enhancements
+##🚀** Future Enhancements**
 
 Add detection for improper mask usage (mask worn incorrectly).
 
@@ -87,15 +88,16 @@ Convert model to TensorFlow Lite for mobile deployment.
 
 Add notification system for workplaces or public spaces.
 
-📝 Author
+##📝 Author
 
 Anushka Shende
 Email: sushmashende607@gmail.com
 
 Internship Project: Naviotech Solution
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 
 Open-source contributions for TensorFlow, Keras, and OpenCV libraries
 
 Dataset contributors for mask and no-mask images
+
