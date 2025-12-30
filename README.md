@@ -26,9 +26,7 @@ It is designed to work with a webcam and provides high accuracy for masked and u
 ---
 
 ## 🗃 Dataset
-Source: Kaggle 
-
-- Number of images: ~10,000 training images, ~800 validation images.  
+Source: Kaggle
 
 ---
 
@@ -64,7 +62,7 @@ pip install -r requirements.txt
 ```
 
 
-2️⃣ Train the Model (Optional)
+# 2️⃣ Train the Model (Optional)
 
 If you want to train the CNN model yourself:
 
@@ -72,13 +70,13 @@ If you want to train the CNN model yourself:
 python train_model.py
 ```
 
-3️⃣ Run Real-Time Mask Detection
+# 3️⃣ Run Real-Time Mask Detection
 
 ```bash
 python real_time_mask_detection.py
 ```
 
-##🚀** Future Enhancements**
+# 🚀 Future Enhancements
 
 Add detection for improper mask usage (mask worn incorrectly).
 
@@ -88,16 +86,17 @@ Convert model to TensorFlow Lite for mobile deployment.
 
 Add notification system for workplaces or public spaces.
 
-##📝 Author
+# 📝 Author
 
 Anushka Shende
 Email: sushmashende607@gmail.com
 
 Internship Project: Naviotech Solution
 
-##🙏 Acknowledgments
+# 🙏 Acknowledgments
 
 Open-source contributions for TensorFlow, Keras, and OpenCV libraries
 
 Dataset contributors for mask and no-mask images
+
 
