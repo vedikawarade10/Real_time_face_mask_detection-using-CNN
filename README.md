@@ -101,6 +101,7 @@ Add notification system for workplaces or public spaces.
 # 📝 Author
 
 Anushka Shende
+
 Email: sushmashende607@gmail.com
 
 Internship Project: Naviotech Solution
@@ -110,6 +111,7 @@ Internship Project: Naviotech Solution
 Open-source contributions for TensorFlow, Keras, and OpenCV libraries
 
 Dataset contributors for mask and no-mask images
+
 
 
 
